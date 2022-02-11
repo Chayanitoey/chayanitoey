@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on **DATA VISUALIZATION & IMMERSIVE STORY TELLING**
 - 📫 How to reach me: **chayanit@newschool.edu**
 - 😄 Pronouns: **she/her/hers**
-- ⚡ Fun fact: **I go running almost everyday / a foodie who's based in NYC**
 
 <!--
 **Chayanitoey/chayanitoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
