@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=chayanitoey)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chayanitoey&theme=blue-green)
