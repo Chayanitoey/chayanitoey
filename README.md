@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on **Data Visualization projects**
-- 🌱 I’m currently learning **Python & Advanced Javascript Libraries**
+- 🌱 I’m currently learning more on **Natural Language Processing and Visual Recognition**
 - 👯 I’m looking to collaborate on **DATA VISUALIZATION & IMMERSIVE STORY TELLING**
 - 📫 How to reach me: **chayanit@newschool.edu**
 - 😄 Pronouns: **she/her/hers**
