@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on **Data Visualization projects**
 - 🌱 I’m currently learning more on **Natural Language Processing and Visual Recognition**
 - 👯 I’m looking to collaborate on **DATA VISUALIZATION & IMMERSIVE STORY TELLING**
+- 💻 Check out my work: [chayanitoey.com](https://chayanitoey.com/)
 - 📫 How to reach me: **chayanit@newschool.edu**
 - 😄 Pronouns: **she/her/hers**
 
